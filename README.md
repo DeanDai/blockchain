@@ -1,2 +1,2 @@
 # blockchain
-Writing blockchain by js
+Writing blockchain by Javascript
